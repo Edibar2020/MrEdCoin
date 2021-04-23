@@ -1,0 +1,2 @@
+# MrEdCoin
+Personal Crypto
